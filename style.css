@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+.heading{
+    width: 80%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: crimson;
+    background-color: pink;
+    font-weight: bold;
+}
+.name_of_objects{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: x-large;
+}
+.webcam123{
+    border: 2px ridge grey;
+    width: 350px;
+    height: 350px;
+}
